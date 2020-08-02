@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "601478219169",
+    "firebase_url": "https://dragnet-5f118.firebaseio.com",
+    "project_id": "dragnet-5f118",
+    "storage_bucket": "dragnet-5f118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601478219169:android:3700e00f9a768ad599b7e0",
+        "android_client_info": {
+          "package_name": "co.apptomate.dragnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601478219169-9tokpl1llts74o507ie0p8t9tq06n872.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.apptomate.dragnet",
+            "certificate_hash": "c1fc201ce64f639642336ed5330261e41a560709"
+          }
+        },
+        {
+          "client_id": "601478219169-ct83isrdgus4gd1ban18qa3i0h2a4did.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmx_PocFYm8QgYTNWc5E4XJzAI7Mifgow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601478219169-ct83isrdgus4gd1ban18qa3i0h2a4did.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

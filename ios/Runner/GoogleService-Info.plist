@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>601478219169-3e2hablc6mfbunppjcki7m6f5kole48p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.601478219169-3e2hablc6mfbunppjcki7m6f5kole48p</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>601478219169-9tokpl1llts74o507ie0p8t9tq06n872.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBb6Tz-MwEImst13KJBVfEB_wBTkwsbZ7Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>601478219169</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.apptomate.dragnet</string>
+	<key>PROJECT_ID</key>
+	<string>dragnet-5f118</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dragnet-5f118.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:601478219169:ios:a08b47eb4d86c55499b7e0</string>
+	<key>DATABASE_URL</key>
+	<string>https://dragnet-5f118.firebaseio.com</string>
+</dict>
+</plist>
